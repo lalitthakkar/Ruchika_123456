@@ -1,1 +1,3 @@
-# Ruchika_123456
+Your name: Ruchika
+Project Title: Lab 3
+Student Id: -----
